@@ -1,0 +1,563 @@
+[
+    {
+        "estadio" : "Norte",
+        "banda" : "Juanse",
+        "fecha": "18/02/2023 00:30"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Divididos",
+        "fecha": "18/02/2023 22:30"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Skay Y Los Fakires",
+        "fecha": "18/02/2023 21:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "No Te Va Gustar",
+        "fecha": "18/02/2023 19:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Guasones",
+        "fecha": "18/02/2023 17:30"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Ojos Locos",
+        "fecha": "18/02/2023 16:30"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "La Chancha Muda",
+        "fecha": "18/02/2023 15:40"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "El Bordo",
+        "fecha": "18/02/2023 15:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Farolitos",
+        "fecha": "18/02/2023 14:20"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Juan Ingaramo",
+        "fecha": "18/02/2023 00:25"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Turf",
+        "fecha": "18/02/2023 23:00"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Trueno",
+        "fecha": "18/02/2023 21:40"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Rels B",
+        "fecha": "18/02/2023 20:15"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Conociendo Rusia",
+        "fecha": "18/02/2023 19:05"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Aleman",
+        "fecha": "18/02/2023 18:00"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Zeballos",
+        "fecha": "18/02/2023 17:00"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "DLD",
+        "fecha": "18/02/2023 16:10"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Lara 91K",
+        "fecha": "18/02/2023 15:20"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Synopsis",
+        "fecha": "18/02/2023 14:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Charlotte de Witte",
+        "fecha": "18/02/2023 02:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Enrico Sangiuliano",
+        "fecha": "18/02/2023 01:20"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Nicolas Taboada",
+        "fecha": "18/02/2023 00:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Vesica Piscis",
+        "fecha": "18/02/2023 23:40"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Catupecu Machu",
+        "fecha": "18/02/2023 22:15"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "LP",
+        "fecha": "18/02/2023 21:00"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "La Delio Valdez",
+        "fecha": "18/02/2023 19:40"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Usted Señalemelo",
+        "fecha": "18/02/2023 18:20"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Estelares",
+        "fecha": "18/02/2023 17:10"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Joanna Maddox",
+        "fecha": "18/02/2023 23:50"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Don Vilanova & Soul Bros",
+        "fecha": "18/02/2023 22:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Deborah Dixon",
+        "fecha": "18/02/2023 20:50"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "The Ginger Hearts",
+        "fecha": "18/02/2023 18:40"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Los Bufalos Sedientos",
+        "fecha": "18/02/2023 17:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Wayra Iglesias",
+        "fecha": "18/02/2023 16:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Viejo Motor",
+        "fecha": "18/02/2023 15:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Greta Kohan",
+        "fecha": "18/02/2023 14:30"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Gativideo",
+        "fecha": "18/02/2023 00:45"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Rusowsky",
+        "fecha": "18/02/2023 23:35"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Saramalacara",
+        "fecha": "18/02/2023 22:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "MuereJoven",
+        "fecha": "18/02/2023 21:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Gauchito Club",
+        "fecha": "18/02/2023 20:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Odd Mami",
+        "fecha": "18/02/2023 19:35"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Fermin",
+        "fecha": "18/02/2023 18:45"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Joven Breakfast",
+        "fecha": "18/02/2023 17:45"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Ilan Amores",
+        "fecha": "18/02/2023 17:10"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Bad",
+        "fecha": "18/02/2023 16:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Letizia Vocos",
+        "fecha": "18/02/2023 15:40"
+    }, 
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Jon Deca",
+        "fecha": "18/02/2023 15:00"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "Fiesta Bresh",
+        "fecha": "18/02/2023 02:00"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "KOINO YOKÁN",
+        "fecha": "18/02/2023 00:30"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "MI AMIGO INVENCIBLE ",
+        "fecha": "18/02/2023 23:10"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "EL MATÓ A UN POLICIA MOTORIZADO ",
+        "fecha": "18/02/2023 21:30"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "LILA DOWNS ",
+        "fecha": "18/02/2023 20:10"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "LAS LIGAS MENORES ",
+        "fecha": "18/02/2023 19:10"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "RAYOS LASER ",
+        "fecha": "18/02/2023 18:10"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "CLARA CAVA ",
+        "fecha": "18/02/2023 17:00"
+    },
+	{
+        "estadio" : "Paraguay",
+        "banda" : "LOS HERMANOS MORGAN",
+        "fecha": "18/02/2023 16:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Las Pelotas",
+        "fecha": "19/02/2023 00:40"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "La Vela Puerca",
+        "fecha": "19/02/2023 23:10"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Ciro y Los Persas",
+        "fecha": "19/02/2023 20:55"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Las Pastillas del Abuelo",
+        "fecha": "19/02/2023 19:20"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Caras Extrañas",
+        "fecha": "19/02/2023 18:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "El Plan de la Mariposa",
+        "fecha": "19/02/2023 17:00"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Cruzando el Charco",
+        "fecha": "19/02/2023 16:10"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "Jovenes Pordioseros",
+        "fecha": "19/02/2023 15:20"
+    },
+    {
+        "estadio" : "Norte",
+        "banda" : "El Vuelto",
+        "fecha": "19/02/2023 14:30"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Ca7riel y Paco Amoroso",
+        "fecha": "19/02/2023 23:00"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Dillom",
+        "fecha": "19/02/2023 21:40"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Airbag",
+        "fecha": "19/02/2023 20:20"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Fito Paez",
+        "fecha": "19/02/2023 18:45"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Vetusta Morla",
+        "fecha": "19/02/2023 17:10"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Silvestre y La Naranja",
+        "fecha": "19/02/2023 16:20"
+    },
+    {
+        "estadio" : "Sur",
+        "banda" : "Paz Carrara",
+        "fecha": "19/02/2023 15:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Tiesto",
+        "fecha": "19/02/2023 00:50"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Babasonicos",
+        "fecha": "19/02/2023 23:00"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Monsieur Perine",
+        "fecha": "19/02/2023 21:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Bandalos Chinos",
+        "fecha": "19/02/2023 19:50"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Peces Raros",
+        "fecha": "19/02/2023 18:30"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Manu Martinez",
+        "fecha": "19/02/2023 17:40"
+    },
+    {
+        "estadio" : "Montaña",
+        "banda" : "Agustina Giovio",
+        "fecha": "19/02/2023 17:00"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "JJ Thames",
+        "fecha": "19/02/2023 23:20"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Nanda Moura & Toyo",
+        "fecha": "19/02/2023 22:00"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Coral",
+        "fecha": "19/02/2023 20:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Los Masones",
+        "fecha": "19/02/2023 19:20"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "The Rhythm Gamblers",
+        "fecha": "19/02/2023 17:50"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "29 Caminos Blues",
+        "fecha": "19/02/2023 16:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Gloria Aguilar y Cruxados",
+        "fecha": "19/02/2023 15:30"
+    },
+    {
+        "estadio" : "La Casita del Blues",
+        "banda" : "Escorpia",
+        "fecha": "19/02/2023 14:30"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Polenta",
+        "fecha": "19/02/2023 00:30"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Muerdo",
+        "fecha": "19/02/2023 23:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Lisandro Aristimuño",
+        "fecha": "19/02/2023 22:15"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Feli Colina",
+        "fecha": "19/02/2023 21:15"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Emmanuel Horvilleur",
+        "fecha": "19/02/2023 20:15"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "1915",
+        "fecha": "19/02/2023 19:25"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "El Zar",
+        "fecha": "19/02/2023 18:35"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Zenon Pereyra",
+        "fecha": "19/02/2023 17:50"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Mia Zeta",
+        "fecha": "19/02/2023 17:05"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Anyi",
+        "fecha": "19/02/2023 16:20"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Cata Raybaud",
+        "fecha": "19/02/2023 15:40"
+    },
+    {
+        "estadio" : "Boomerang",
+        "banda" : "Odios Compartidos",
+        "fecha": "19/02/2023 15:00"
+    }  
+		{
+        "estadio" : "Paraguay",
+        "banda" : "FIESTA KATANA feat SANTA SALUT ",
+        "fecha": "19/02/2023 02:10"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "MS. NINA ",
+        "fecha": "19/02/2023 01:00"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "TAICHU ",
+        "fecha": "19/02/2023 00:00"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "EL DOCTOR ",
+        "fecha": "19/02/2023 22:40"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "SOFIA GABANNA ",
+        "fecha": "19/02/2023 21:10"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "INTENDENTE ",
+        "fecha": "19/02/2023 19:50"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "CRÁNEO & LASSER ",
+        "fecha": "19/02/2023 18:30"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "RONPE 99 ",
+        "fecha": "19/02/2023 17:10"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "THE COLORATED ",
+        "fecha": "19/02/2023 16:00"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "SANTOZ ",
+        "fecha": "19/02/2023 15:00"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "SANTOZ ",
+        "fecha": "19/02/2023 15:00"
+    },
+		{
+        "estadio" : "Paraguay",
+        "banda" : "CALIOPE FAMILY ",
+        "fecha": "19/02/2023 14:00"
+    },
+		
+]
