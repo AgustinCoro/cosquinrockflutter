@@ -4,6 +4,7 @@ import 'package:cosquinrockflutter/src/pages/imagenes_page.dart';
 import 'package:cosquinrockflutter/src/pages/intro_page.dart';
 import 'package:cosquinrockflutter/src/pages/mapa_page.dart';
 import 'package:cosquinrockflutter/src/pages/migrilla_page.dart';
+import 'package:cosquinrockflutter/src/pages/pocket_page.dart';
 import 'package:cosquinrockflutter/src/providers/grupos_provider.dart';
 import 'package:cosquinrockflutter/src/services/notification_services.dart';
 import 'package:flutter/material.dart';
@@ -65,6 +66,7 @@ class _PrincipalPageState extends State<PrincipalPage> {
     DiaDosPage(),
     MiGrillaPage(),
     MapaPage(),
+    PocketPage(),
   ];
   @override
   Widget build(BuildContext context) {
@@ -99,6 +101,10 @@ class _PrincipalPageState extends State<PrincipalPage> {
                 BottomNavigationBarItem(
                   icon: Icon(Icons.map),
                   label: 'MAPA',
+                ),
+                BottomNavigationBarItem(
+                  icon: Icon(Icons.money),
+                  label: 'POCKET',
                 ),
               ],
               currentIndex: currentIndex.indexMenu,

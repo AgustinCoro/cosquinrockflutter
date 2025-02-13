@@ -51,12 +51,14 @@ class _DiaDosPageState extends State<DiaDosPage> {
                 _listarGruposSur(),
                 _imagenMontana(),
                 _listarGruposMontana(),
-                _imagenBoomerang(),
-                _listarGruposBoomerang(),
+                //_imagenBoomerang(),
+                //_listarGruposBoomerang(),
                 _imagenLaCasita(),
                 _listarGruposLaCasita(),
                 _imagenParaguay(),
                 _listarGruposParaguay(),
+                _imagenHangar(),
+                _listarGruposHangar()
               ],
             ),
           ),
@@ -83,7 +85,7 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/EscNorte.png'),
         image: AssetImage('aa/EscNorte.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.8,
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -96,7 +98,7 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/EscSur.png'),
         image: AssetImage('aa/EscSur.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.8,
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -109,7 +111,7 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/EscMontana.png'),
         image: AssetImage('aa/EscMontana.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.9,
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -122,7 +124,7 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/EscBoomerang.png'),
         image: AssetImage('aa/EscBoomerang.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.8,
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -135,7 +137,7 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/EscCasita.png'),
         image: AssetImage('aa/EscCasita.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.9,
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -148,7 +150,20 @@ class _DiaDosPageState extends State<DiaDosPage> {
         placeholder: AssetImage('aa/Esc_Paraguay.png'),
         image: AssetImage('aa/Esc_Paraguay.png'),
         fadeInDuration: Duration(seconds: 3),
-        width: MediaQuery.of(context).size.width * 0.9,
+        width: MediaQuery.of(context).size.width * 0.6,
+        fit: BoxFit.cover,
+      ),
+    );
+  }
+
+  Widget _imagenHangar() {
+    return Padding(
+      padding: const EdgeInsets.only(top: 20, bottom: 20),
+      child: FadeInImage(
+        placeholder: AssetImage('aa/EscHangar.png'),
+        image: AssetImage('aa/EscHangar.png'),
+        fadeInDuration: Duration(seconds: 3),
+        width: MediaQuery.of(context).size.width * 0.6,
         fit: BoxFit.cover,
       ),
     );
@@ -595,6 +610,49 @@ class _DiaDosPageState extends State<DiaDosPage> {
         //      physics: const NeverScrollableScrollPhysics(),
         //      children: _listItems(reclamoCerradoCMDetalle.items, context)
         // );
+      },
+    );
+  }
+
+  Widget _listarGruposHangar() {
+    return FutureBuilder(
+      future: gruposProvider.mostrarGruposDiaDosHangar(),
+      builder: (context, AsyncSnapshot snapshot) {
+        if (snapshot.hasError) {
+          return Text(snapshot.error.toString());
+        }
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [Center(child: CircularProgressIndicator())],
+          );
+        }
+        final grupo = Grupos.fromJsonList(snapshot.data);
+
+        final _todosGruposHangar = grupo.items;
+
+        return Column(
+          children: [
+            SizedBox(
+              height: 400,
+              child: Scrollbar(
+                thumbVisibility: true,
+                controller: _scrollControllerCasita,
+                thickness: 5,
+                child: ListView.builder(
+                    shrinkWrap: true,
+                    controller: _scrollControllerCasita,
+                    itemCount: _todosGruposHangar.length,
+                    itemBuilder: (context, index) {
+                      final grupo = _todosGruposHangar[index];
+                      //Grupo grupo1 =
+
+                      return _listItems(grupo);
+                    }),
+              ),
+            ),
+          ],
+        );
       },
     );
   }

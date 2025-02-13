@@ -45,7 +45,8 @@ Future<void> consultarConciertos() async {
   DateTime now = DateTime.now();
 
   List<Map> result = await db.rawQuery(
-      "SELECT * FROM GrillaPersonal WHERE fecha BETWEEN '11/02/2024 00:00' AND '11/02/2024 23:59' ORDER BY fecha DESC");
+      //"SELECT * FROM GrillaPersonal WHERE fecha BETWEEN '15/02/2025 00:00' AND '18/02/2024 23:59' ORDER BY fecha DESC");
+      "SELECT * FROM GrillaPersonal ORDER BY fecha DESC");
 }
 
 void obtenerAvisos() async {
@@ -145,7 +146,7 @@ void obtenerRegistrosConDiferenciaDeTiempo() async {
         whereArgs: [idParaActualizar], // Valor del 'id' que estás buscando
       );
 
-      mostrarNotificacion("En menos de 15 minitos estara " +
+      mostrarNotificacion("En menos de 15 minutos estara " +
           row['banda'] +
           " en el escenario " +
           row['estadio']);

@@ -33,7 +33,7 @@ class _CardGrupoPersonalizadoState extends State<CardGrupoPersonalizado> {
                 width: double.infinity,
                 padding: const EdgeInsets.all(2),
                 decoration: BoxDecoration(
-                  color: Color.fromRGBO(91, 11, 89, 1),
+                  color: Color.fromRGBO(255, 255, 255, 0.5),
                   borderRadius: const BorderRadius.only(
                       bottomLeft: Radius.circular(10),
                       bottomRight: Radius.circular(10),
@@ -42,7 +42,7 @@ class _CardGrupoPersonalizadoState extends State<CardGrupoPersonalizado> {
                 ),
                 child: Container(
                   decoration: BoxDecoration(
-                    color: Color.fromRGBO(229, 238, 242, 1),
+                    color: Color.fromRGBO(0, 0, 0, 1),
                     borderRadius: BorderRadius.circular(10),
                   ),
                   padding: const EdgeInsets.all(10),
@@ -73,6 +73,7 @@ class _CardGrupoPersonalizadoState extends State<CardGrupoPersonalizado> {
                   child: Text(
                     '${widget.gruposPersonalizados[0]} - ',
                     style: const TextStyle(
+                      color: Colors.white,
                       fontSize: 20,
                       fontWeight: FontWeight.w500,
                       height: 1.5,
@@ -83,6 +84,7 @@ class _CardGrupoPersonalizadoState extends State<CardGrupoPersonalizado> {
                   child: Text(
                     '${widget.gruposPersonalizados[1].toUpperCase()}',
                     style: const TextStyle(
+                      color: Colors.white,
                       fontSize: 20,
                       fontWeight: FontWeight.w500,
                       height: 1.5,
@@ -93,6 +95,7 @@ class _CardGrupoPersonalizadoState extends State<CardGrupoPersonalizado> {
                   child: Text(
                     ' - ${widget.gruposPersonalizados[2].substring(10)} ',
                     style: const TextStyle(
+                      color: Colors.white,
                       fontSize: 20,
                       fontWeight: FontWeight.w500,
                       height: 1.5,

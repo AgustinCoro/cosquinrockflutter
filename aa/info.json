@@ -1,8 +1,24 @@
 [
   {
     "estadio": "Norte",
+    "banda": "Prueba 1",
+    "fecha": "13/02/2025 10:45"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "Prueba 2",
+    "fecha": "13/02/2025 10:50"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "Prueba 3",
+    "fecha": "13/02/2025 10:55"
+  },
+
+  {
+    "estadio": "Norte",
     "banda": "AUTENTICOS DECADENTES",
-    "fecha": "15/02/2025 00:50"
+    "fecha": "16/02/2025 00:40"
   },
   {
     "estadio": "Norte",
@@ -12,7 +28,7 @@
   {
     "estadio": "Norte",
     "banda": "AIRBAG",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 21:40"
   },
   {
     "estadio": "Norte",
@@ -27,7 +43,7 @@
   {
     "estadio": "Norte",
     "banda": "HILDA CANTA A CHARLY",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 16:30"
   },
   {
     "estadio": "Norte",
@@ -41,8 +57,8 @@
   },
   {
     "estadio": "Sur",
-    "banda": " RATONES PARANOICOS ",
-    "fecha": "15/02/2025 00:30"
+    "banda": "RATONES PARANOICOS",
+    "fecha": "16/02/2025 00:30"
   },
   {
     "estadio": "Sur",
@@ -52,7 +68,7 @@
   {
     "estadio": "Sur",
     "banda": "BABASONICOS",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 21:40"
   },
   {
     "estadio": "Sur",
@@ -67,7 +83,7 @@
   {
     "estadio": "Sur",
     "banda": "LOS TIPITOS",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 16:30"
   },
   {
     "estadio": "Sur",
@@ -82,17 +98,17 @@
   {
     "estadio": "Montaña",
     "banda": "POPOF B2B SPACE 92",
-    "fecha": "15/02/2025 02:00"
+    "fecha": "16/02/2025 02:00"
   },
   {
     "estadio": "Montaña",
     "banda": "JULIAN JEWEIL",
-    "fecha": "15/02/2025 01:00"
+    "fecha": "16/02/2025 01:00"
   },
   {
     "estadio": "Montaña",
     "banda": "MARIANO MELLINO ",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "16/02/2025 00:00"
   },
   {
     "estadio": "Montaña",
@@ -107,7 +123,7 @@
   {
     "estadio": "Montaña",
     "banda": "LA VELA PUERCA",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 18:40"
   },
   {
     "estadio": "Montaña",
@@ -127,52 +143,52 @@
   {
     "estadio": "Boomerang",
     "banda": "Polenta",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "16/02/2025 00:00"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Dante Spinetta",
+    "banda": "TURF",
     "fecha": "15/02/2025 22:50"
   },
   {
     "estadio": "Boomerang",
-    "banda": "1915",
-    "fecha": "15/02/2025 21:50"
+    "banda": "EL PLAN DE LA MARIPOSA",
+    "fecha": "15/02/2025 21:30"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Isla De Caras",
-    "fecha": "15/02/2025 20:40"
+    "banda": "EMMANUEL HORVILLEUR",
+    "fecha": "15/02/2025 20:30"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Alan Sutton Y Las Criaturitas De La Ansiedad",
-    "fecha": "15/02/2025 19:40"
+    "banda": "INDIOS",
+    "fecha": "15/02/2025 19:20"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Broke Carrey",
-    "fecha": "15/02/2025 18:30"
+    "banda": "LEO RIZZI",
+    "fecha": "15/02/2025 18:20"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Melanie Williams",
-    "fecha": "15/02/2025 17:30"
+    "banda": "SIDDHARTHA",
+    "fecha": "15/02/2025 17:20"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Veintiuno",
-    "fecha": "15/02/2025 16:40"
+    "banda": "VINOCIO",
+    "fecha": "15/02/2025 16:30"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Pedro Pastor",
-    "fecha": "15/02/2025 15:50"
+    "banda": "FLORIAN",
+    "fecha": "15/02/2025 15:40"
   },
   {
     "estadio": "Boomerang",
-    "banda": "Martin Giusta",
-    "fecha": "15/02/2025 15:00"
+    "banda": "UMA",
+    "fecha": "15/02/2025 14:50"
   },
   {
     "estadio": "Paraguay",
@@ -227,301 +243,297 @@
   {
     "estadio": "La Casita del Blues",
     "banda": "MEMPHIS LA BLUSERA",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 21:15"
   },
   {
     "estadio": "La Casita del Blues",
     "banda": "CLAUDIA SETTE Y TOYO BAGOSO",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 20:10"
   },
   {
     "estadio": "La Casita del Blues",
     "banda": "LOS ESPÍRITUS",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 18:55"
   },
   {
     "estadio": "La Casita del Blues",
     "banda": "CLAUDETTE KING",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 17:50"
   },
   {
     "estadio": "La Casita del Blues",
     "banda": "YULIE Y VANE RUTH",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 16:55"
   },
   {
     "estadio": "La Casita del Blues",
     "banda": "THE GINGER HEARTS",
-    "fecha": "15/02/2025 00:00"
+    "fecha": "15/02/2025 16:00"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "LOS MENTIDORES ",
-    "fecha": "15/02/2025 00:00"
+    "banda": "LOS MENTIDORES",
+    "fecha": "15/02/2025 15:00"
+  },
+
+  {
+    "estadio": "Hangar",
+    "banda": "DJs PAREJA",
+    "fecha": "15/02/2025 22:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "LUPE",
+    "fecha": "15/02/2025 21:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "MABEL",
+    "fecha": "15/02/2025 20:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "GABA",
+    "fecha": "15/02/2025 18:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "MARTI DEATH",
+    "fecha": "15/02/2025 17:00"
   },
   {
     "estadio": "Norte",
-    "banda": "SOL ORTEGA",
+    "banda": "LUCK RA",
+    "fecha": "17/02/2025 00:00"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "NAFTA",
+    "fecha": "16/02/2025 23:00"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "LA DELIO VALDEZ",
     "fecha": "16/02/2025 21:00"
   },
   {
     "estadio": "Norte",
-    "banda": "PAMPA",
-    "fecha": "16/02/2025 20:00"
+    "banda": "NICKI NICOLE",
+    "fecha": "16/02/2025 19:40"
   },
   {
     "estadio": "Norte",
-    "banda": "J CATRIEL ",
-    "fecha": "16/02/2025 00:00"
+    "banda": "CA7RIEL Y PACO AMOROSO",
+    "fecha": "16/02/2025 17:50"
   },
   {
     "estadio": "Norte",
-    "banda": "Los Caligaris",
+    "banda": "BHAVI",
+    "fecha": "16/02/2025 16:30"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "AGUSFORTNITE2008 & STIFFY",
+    "fecha": "16/02/2025 15:20"
+  },
+  {
+    "estadio": "Norte",
+    "banda": "K4",
+    "fecha": "16/02/2025 14:30"
+  },
+  {
+    "estadio": "Sur",
+    "banda": "LOS PIOJOS",
+    "fecha": "16/02/2025 22:00"
+  },
+  {
+    "estadio": "Sur",
+    "banda": "SKAY Y LOS FAKIRES",
+    "fecha": "16/02/2025 20:30"
+  },
+  {
+    "estadio": "Sur",
+    "banda": "LAS PELOTAS",
     "fecha": "16/02/2025 19:10"
   },
   {
-    "estadio": "Norte",
-    "banda": "Snow Tha Product",
-    "fecha": "16/02/2025 18:00"
-  },
-  {
-    "estadio": "Norte",
-    "banda": "Milo J",
-    "fecha": "16/02/2025 16:50"
-  },
-  {
-    "estadio": "Norte",
-    "banda": "Neo Pistea",
-    "fecha": "16/02/2025 15:50"
-  },
-  {
-    "estadio": "Norte",
-    "banda": "Yami Safdie",
-    "fecha": "16/02/2025 15:00"
-  },
-  {
-    "estadio": "Norte",
-    "banda": "Rosa Profunda",
-    "fecha": "16/02/2025 14:20"
+    "estadio": "Sur",
+    "banda": "ALE KURZ",
+    "fecha": "16/02/2025 17:50"
   },
   {
     "estadio": "Sur",
-    "banda": "Molotov",
-    "fecha": "16/02/2025 00:40"
+    "banda": "LA CHANCHA MUDA",
+    "fecha": "16/02/2025 16:30"
   },
   {
     "estadio": "Sur",
-    "banda": "Las Pelotas",
-    "fecha": "16/02/2025 23:10"
+    "banda": "WAYRA IGLESIAS",
+    "fecha": "16/02/2025 15:20"
   },
   {
     "estadio": "Sur",
-    "banda": "Slash ft. Myles Kennedy and The Conspirators",
-    "fecha": "16/02/2025 21:40"
-  },
-  {
-    "estadio": "Sur",
-    "banda": "Ciro Y Los Persas",
-    "fecha": "16/02/2025 19:30"
-  },
-  {
-    "estadio": "Sur",
-    "banda": "Las Pastillas Del Abuelo",
-    "fecha": "16/02/2025 17:40"
-  },
-  {
-    "estadio": "Sur",
-    "banda": "Cruzando El Charco",
-    "fecha": "16/02/2025 16:00"
-  },
-  {
-    "estadio": "Sur",
-    "banda": "El Bordo",
-    "fecha": "16/02/2025 15:10"
-  },
-  {
-    "estadio": "Sur",
-    "banda": "Nenagenix",
+    "banda": "DANIELA MILAGROS",
     "fecha": "16/02/2025 14:30"
   },
   {
     "estadio": "Montaña",
-    "banda": "Steve Aoki",
-    "fecha": "16/02/2025 01:20"
+    "banda": "PECES RAROS",
+    "fecha": "17/02/2025 00:20"
   },
   {
     "estadio": "Montaña",
-    "banda": "Anita B. Queen",
-    "fecha": "16/02/2025 23:40"
+    "banda": "JUAN HANSEN LIVE",
+    "fecha": "16/02/2025 23:10"
   },
   {
     "estadio": "Montaña",
-    "banda": "Peces Raros",
-    "fecha": "16/02/2025 22:10"
-  },
-  {
-    "estadio": "Montaña",
-    "banda": "Usted SeñalemeLo",
+    "banda": "DEADMAU5",
     "fecha": "16/02/2025 20:40"
   },
   {
     "estadio": "Montaña",
-    "banda": "Catupecu Machu",
-    "fecha": "16/02/2025 19:10"
+    "banda": "BANDALOS CHINOS",
+    "fecha": "16/02/2025 18:40"
   },
   {
     "estadio": "Montaña",
-    "banda": "El Kuelgue",
+    "banda": "SILVESTRE Y LA NARANJA",
+    "fecha": "16/02/2025 17:10"
+  },
+  {
+    "estadio": "Montaña",
+    "banda": "BLAIR",
+    "fecha": "16/02/2025 15:50"
+  },
+  {
+    "estadio": "Montaña",
+    "banda": "GENITALLICA",
+    "fecha": "16/02/2025 14:30"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "HIJO DE LA TORMENTA",
+    "fecha": "16/02/2025 23:30"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "ROSA PROFUNDA",
+    "fecha": "16/02/2025 22:30"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "WINONA RIDERS",
+    "fecha": "16/02/2025 21:30"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "MASSACRE",
+    "fecha": "16/02/2025 20:10"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "VAPORS OF MORPHINE",
+    "fecha": "16/02/2025 19:00"
+  },
+  {
+    "estadio": "Paraguay",
+    "banda": "ZOE GOTUSSO",
     "fecha": "16/02/2025 18:00"
   },
   {
-    "estadio": "Montaña",
-    "banda": "Estelares",
-    "fecha": "16/02/2025 17:00"
+    "estadio": "Paraguay",
+    "banda": "JAVIERA MENA",
+    "fecha": "16/02/2025 16:50"
   },
   {
-    "estadio": "Montaña",
-    "banda": "Leo Rizzi",
+    "estadio": "Paraguay",
+    "banda": "MANU MARTÍNEZ",
     "fecha": "16/02/2025 16:00"
   },
   {
-    "estadio": "Boomerang",
-    "banda": "Ben Yart",
-    "fecha": "16/02/2025 23:25"
+    "estadio": "Paraguay",
+    "banda": "LARA 91K",
+    "fecha": "16/02/2025 15:10"
   },
   {
-    "estadio": "Boomerang",
-    "banda": "Muerejoven",
-    "fecha": "16/02/2025 22:15"
+    "estadio": "Paraguay",
+    "banda": "FONSO Y LAS PARITARIAS",
+    "fecha": "16/02/2025 14:20"
   },
   {
-    "estadio": "Boomerang",
-    "banda": "El Zar",
-    "fecha": "16/02/2025 21:15"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Los Tipitos",
-    "fecha": "16/02/2025 20:15"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Koino Yokan",
-    "fecha": "16/02/2025 19:25"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Paz Carrara",
-    "fecha": "16/02/2025 18:35"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Santi Muk",
-    "fecha": "16/02/2025 17:50"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Simona",
-    "fecha": "16/02/2025 17:05"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Odd Mami",
-    "fecha": "16/02/2025 16:20"
-  },
-  {
-    "estadio": "Boomerang",
-    "banda": "Camilú",
-    "fecha": "16/02/2025 15:40"
-  },
-  {
-    "estadio": "Boomerang",
+    "estadio": "Paraguay",
     "banda": "Quentin",
     "fecha": "16/02/2025 15:00"
   },
   {
-    "estadio": "Paraguay",
-    "banda": "Alborosie",
-    "fecha": "16/02/2025 23:20"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Don Carlos",
-    "fecha": "16/02/2025 21:40"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Dancing Mood",
-    "fecha": "16/02/2025 20:00"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Mimi Maura",
-    "fecha": "16/02/2025 18:40"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Stailok",
-    "fecha": "16/02/2025 17:20"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Alika",
-    "fecha": "16/02/2025 16:00"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Panal",
-    "fecha": "16/02/2025 15:00"
-  },
-  {
-    "estadio": "Paraguay",
-    "banda": "Army of Dub",
-    "fecha": "16/02/2025 14:00"
+    "estadio": "La Casita del Blues",
+    "banda": "LOS BÚFALOS SEDIENTOS",
+    "fecha": "16/02/2025 22:45"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "Laretha Weathersby",
-    "fecha": "16/02/2025 00:00"
+    "banda": "IVAN SINGH & SHERYL YOUNGBLOOD",
+    "fecha": "16/02/2025 21:45"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "Bourbon Sweethearts",
-    "fecha": "16/02/2025 23:20"
-  },
-  {
-    "estadio": "La Casita del Blues",
-    "banda": "Boconas",
-    "fecha": "16/02/2025 22:00"
-  },
-  {
-    "estadio": "La Casita del Blues",
-    "banda": "Toyo + Taryn Spilzman",
+    "banda": "PITI FERNÁNDEZ",
     "fecha": "16/02/2025 20:30"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "The Last Train",
-    "fecha": "16/02/2025 19:20"
+    "banda": "THE RHYTHM GAMBLERS",
+    "fecha": "16/02/2025 19:25"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "So",
-    "fecha": "16/02/2025 17:50"
+    "banda": "CÉSAR VALDOMIR + MARI POLE + NICO RAFFETTA",
+    "fecha": "16/02/2025 18:20"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "Alapar",
-    "fecha": "16/02/2025 16:30"
+    "banda": "SOL BASSA",
+    "fecha": "16/02/2025 17:25"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "La Golo's Band",
-    "fecha": "16/02/2025 15:30"
+    "banda": "CINDY COLEONI",
+    "fecha": "16/02/2025 16:20"
   },
   {
     "estadio": "La Casita del Blues",
-    "banda": "Pax and The Baby Boys",
+    "banda": "MARLENE SUCHY & THE SUPER SAX",
+    "fecha": "16/02/2025 15:25"
+  },
+  {
+    "estadio": "La Casita del Blues",
+    "banda": "PAPI CHIMI ROMERO & BROSSOUL",
     "fecha": "16/02/2025 14:30"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "SOL ORTEGA",
+    "fecha": "16/02/2025 21:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "PAMPA",
+    "fecha": "16/02/2025 20:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "J CATRIEL",
+    "fecha": "16/02/2025 19:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "MAIA DROSS",
+    "fecha": "16/02/2025 18:00"
+  },
+  {
+    "estadio": "Hangar",
+    "banda": "SIVINSKI",
+    "fecha": "16/02/2025 17:00"
   }
 ]

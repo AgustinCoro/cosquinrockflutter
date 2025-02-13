@@ -30,7 +30,8 @@ class _CardGrupoState extends State<CardGrupo> {
               width: double.infinity,
               padding: const EdgeInsets.all(2),
               decoration: BoxDecoration(
-                color: Color.fromRGBO(107, 131, 252, 1),
+                //color: Color.fromRGBO(107, 131, 252, 1),
+                color: Color.fromRGBO(255, 255, 255, 0.5),
                 borderRadius: const BorderRadius.only(
                     bottomLeft: Radius.circular(10),
                     bottomRight: Radius.circular(10),
@@ -48,7 +49,7 @@ class _CardGrupoState extends State<CardGrupo> {
                 },
                 child: Container(
                   decoration: BoxDecoration(
-                    color: Color.fromRGBO(21, 18, 53, 1),
+                    color: Color.fromRGBO(0, 0, 0, 1),
                     borderRadius: BorderRadius.circular(10),
                   ),
                   padding: const EdgeInsets.all(10),

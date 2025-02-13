@@ -17,7 +17,7 @@ class MapaPage extends StatelessWidget {
     //             //fit: BoxFit.cover,
     //           ),
     //       ),
-    //     ),   
+    //     ),
     // );
     return Scaffold(
       backgroundColor: Color.fromRGBO(0, 0, 0, 1),
