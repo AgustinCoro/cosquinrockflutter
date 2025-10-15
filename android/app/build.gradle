@@ -22,7 +22,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     compileSdkVersion 34
-    namespace = "com.example.cosquinrockflutter"
+    namespace "com.example.cosquinrockflutter"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

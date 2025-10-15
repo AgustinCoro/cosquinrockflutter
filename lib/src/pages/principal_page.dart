@@ -2,6 +2,7 @@ import 'package:cosquinrockflutter/src/pages/dia1_page.dart';
 import 'package:cosquinrockflutter/src/pages/dia2_page.dart';
 import 'package:cosquinrockflutter/src/pages/imagenes_page.dart';
 import 'package:cosquinrockflutter/src/pages/intro_page.dart';
+import 'package:cosquinrockflutter/src/pages/mapa2_page.dart';
 import 'package:cosquinrockflutter/src/pages/mapa_page.dart';
 import 'package:cosquinrockflutter/src/pages/migrilla_page.dart';
 import 'package:cosquinrockflutter/src/pages/pocket_page.dart';

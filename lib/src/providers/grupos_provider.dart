@@ -38,13 +38,125 @@ class ProviderGrupos with ChangeNotifier {
         'notificado': 0
       },
       {
-        'mensaje': "Mañana llega Cosquín Rock 2025",
+        'mensaje': "Falta 1 día para el Cosquin Rock 2025",
         'fecha': "14/02/2025 00:00",
         'notificado': 0
       },
       {
-        'mensaje': "¡Es hoy! ¡Es hoy! Buen día Cosquín Rock 2025",
+        'mensaje': "¡¡LLEGO EL DIA!!",
         'fecha': "15/02/2025 00:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla del Cosquin Rock 2025",
+        'fecha': "15/02/2025 00:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga el Mapa del Festival",
+        'fecha': "15/02/2025 00:02",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Carga con Poket Cash",
+        'fecha': "15/02/2025 00:03",
+        'notificado': 0
+      },
+      {
+        'mensaje': "¡¡LLEGO EL DIA!!",
+        'fecha': "16/02/2025 00:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla del Cosquin Rock 2025",
+        'fecha': "16/02/2025 00:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga el Mapa del Festival",
+        'fecha': "16/02/2025 00:02",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Carga con Poket Cash",
+        'fecha': "16/02/2025 00:03",
+        'notificado': 0
+      },
+
+      {
+        'mensaje': "No te olvides de Cargar poket cash",
+        'fecha': "15/02/2025 09:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla",
+        'fecha': "15/02/2025 09:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga tu mapa",
+        'fecha': "15/02/2025 09:02",
+        'notificado': 0
+      },
+
+      {
+        'mensaje': "No te olvides de Cargar poket cash",
+        'fecha': "15/02/2025 12:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla",
+        'fecha': "15/02/2025 12:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga tu mapa",
+        'fecha': "15/02/2025 12:02",
+        'notificado': 0
+      },
+
+      //domingo
+
+      {
+        'mensaje': "No te olvides de Cargar poket cash",
+        'fecha': "16/02/2025 09:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla",
+        'fecha': "16/02/2025 09:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga tu mapa",
+        'fecha': "16/02/2025 09:02",
+        'notificado': 0
+      },
+
+      {
+        'mensaje': "No te olvides de Cargar poket cash",
+        'fecha': "16/02/2025 12:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Arma tu grilla",
+        'fecha': "16/02/2025 12:01",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Descarga tu mapa",
+        'fecha': "16/02/2025 12:02",
+        'notificado': 0
+      },
+
+      {
+        'mensaje': "Hoy viví el día 1 del Cosquin Rock",
+        'fecha': "15/02/2025 10:00",
+        'notificado': 0
+      },
+      {
+        'mensaje': "Hoy viví el día 2 del Cosquin Rock",
+        'fecha': "16/02/2025 10:00",
         'notificado': 0
       },
     ];
